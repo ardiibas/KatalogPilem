@@ -1,4 +1,4 @@
-package gifood.id.katalogfilm
+package gifood.id.katalogfilem
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

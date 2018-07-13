@@ -1,4 +1,4 @@
-package gifood.id.katalogfilm
+package gifood.id.katalogfilem
 
 import org.junit.Test
 
